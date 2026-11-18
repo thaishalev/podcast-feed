@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "guid": "thais-weekly-brief-ep-1",
+    "episode_number": 1,
+    "title": "Nvidia Buys Hugging Face, Mistral Closes at $24B, and the Fed Meets This Week",
+    "notes": "Nvidia is reportedly buying Hugging Face for ~$13B, the Fed's genuinely-too-close-to-call September meeting finally arrives, Mistral closes its $3B round at a $24B valuation led by Samsung, and Israeli startups post one of their biggest funding weeks ever, led by Wonderful's $550M raise. We connect all four to the same underlying story: an AI infrastructure arms race happening regardless of interest-rate uncertainty.\n\nThis episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.\n\nMusic: \"Voxel Revolution\" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "file": "episodes/ep-001.mp3",
+    "bytes": 14636204,
+    "duration_seconds": 1829,
+    "pub_date": "2026-09-16",
+    "pub_date_rfc2822": "Wed, 16 Sep 2026 12:00:00 +0000",
+    "spoken_disclosure": true
+  }
+]

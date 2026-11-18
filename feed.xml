@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Nvidia Buys Hugging Face, Mistral Closes at $24B, and the Fed Meets This Week</title>
+      <description>Nvidia is reportedly buying Hugging Face for ~$13B, the Fed's genuinely-too-close-to-call September meeting finally arrives, Mistral closes its $3B round at a $24B valuation led by Samsung, and Israeli startups post one of their biggest funding weeks ever, led by Wonderful's $550M raise. We connect all four to the same underlying story: an AI infrastructure arms race happening regardless of interest-rate uncertainty.
 
+This episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.
+
+Music: "Voxel Revolution" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/</description>
+      <itunes:summary>Nvidia is reportedly buying Hugging Face for ~$13B, the Fed's genuinely-too-close-to-call September meeting finally arrives, Mistral closes its $3B round at a $24B valuation led by Samsung, and Israeli startups post one of their biggest funding weeks ever, led by Wonderful's $550M raise. We connect all four to the same underlying story: an AI infrastructure arms race happening regardless of interest-rate uncertainty.
+
+This episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.
+
+Music: "Voxel Revolution" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/</itunes:summary>
+      <enclosure url="https://thaishalev.github.io/podcast-feed/episodes/ep-001.mp3" length="14636204" type="audio/mpeg"/>
+      <guid isPermaLink="false">thais-weekly-brief-ep-1</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1829</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://thaishalev.github.io/podcast-feed/cover.jpg"/>
+    </item>
   </channel>
 </rss>

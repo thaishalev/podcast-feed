@@ -10,5 +10,17 @@
     "pub_date": "2026-09-16",
     "pub_date_rfc2822": "Wed, 16 Sep 2026 12:00:00 +0000",
     "spoken_disclosure": true
+  },
+  {
+    "guid": "thais-weekly-brief-ep-2",
+    "episode_number": 2,
+    "title": "AI's Safety Reckoning, an Israeli Security Megaround, and France's Growth Gap",
+    "notes": "This week: AI's own biggest names warn of existential risk and trigger a global tech selloff, Nvidia keeps showing up everywhere from Hugging Face to Anthropic's IPO, an Israeli startup raises $245M to keep AI agents in check, France's growth forecast gets cut to near zero even as Mistral booms, and we close out last week's Fed cliffhanger.\n\nThis episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.\n\nMusic: \"Voxel Revolution\" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "file": "episodes/ep-002.mp3",
+    "bytes": 14133356,
+    "duration_seconds": 1767,
+    "pub_date": "2026-09-17",
+    "pub_date_rfc2822": "Thu, 17 Sep 2026 12:00:00 +0000",
+    "spoken_disclosure": true
   }
 ]

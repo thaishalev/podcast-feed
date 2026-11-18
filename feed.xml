@@ -20,6 +20,27 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The AI Trade Gets a Reality Check: Midterms, Meltdowns, and a Mega-IPO Into the Storm</title>
+      <description>This week: a midterm-election-driven stock rout wipes out $2.3 trillion from the Nasdaq 100 in a day and spreads to Asia, right as Anthropic pushes ahead with its IPO at up to $2 trillion. The Fed and ECB both lean toward December rate hikes, Lagarde's early ECB exit kicks off a succession race, the Decart saga gets a new buyer in Amazon after Anthropic walked away, and Mistral closes its fifth acquisition of the year.
+
+This episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.
+
+Music: "Voxel Revolution" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/</description>
+      <itunes:summary>This week: a midterm-election-driven stock rout wipes out $2.3 trillion from the Nasdaq 100 in a day and spreads to Asia, right as Anthropic pushes ahead with its IPO at up to $2 trillion. The Fed and ECB both lean toward December rate hikes, Lagarde's early ECB exit kicks off a succession race, the Decart saga gets a new buyer in Amazon after Anthropic walked away, and Mistral closes its fifth acquisition of the year.
+
+This episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.
+
+Music: "Voxel Revolution" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/</itunes:summary>
+      <enclosure url="https://thaishalev.github.io/podcast-feed/episodes/ep-007.mp3" length="16922732" type="audio/mpeg"/>
+      <guid isPermaLink="false">thais-weekly-brief-ep-7</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>2115</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://thaishalev.github.io/podcast-feed/cover.jpg"/>
+    </item>
+    <item>
       <title>AI Debt Hits Wall Street, the Rate-Hike Wave Cracks, and OpenAI Buys an Israeli Camera Startup</title>
       <description>This week: SoftBank sells over $10B in bonds to help fund its OpenAI stake as AI financing spreads into public debt markets, the global rate-hike wave from last episode wobbles as Fed odds swing hard on one dovish comment even as the ECB warns the inflation fight could run into 2027, and OpenAI buys Israeli camera-tech startup GLASS Imaging for $300M+ as AI labs keep reaching into hardware.
 

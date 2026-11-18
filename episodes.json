@@ -34,5 +34,17 @@
     "pub_date": "2026-09-24",
     "pub_date_rfc2822": "Thu, 24 Sep 2026 12:00:00 +0000",
     "spoken_disclosure": true
+  },
+  {
+    "guid": "thais-weekly-brief-ep-7",
+    "episode_number": 7,
+    "title": "The AI Trade Gets a Reality Check: Midterms, Meltdowns, and a Mega-IPO Into the Storm",
+    "notes": "This week: a midterm-election-driven stock rout wipes out $2.3 trillion from the Nasdaq 100 in a day and spreads to Asia, right as Anthropic pushes ahead with its IPO at up to $2 trillion. The Fed and ECB both lean toward December rate hikes, Lagarde's early ECB exit kicks off a succession race, the Decart saga gets a new buyer in Amazon after Anthropic walked away, and Mistral closes its fifth acquisition of the year.\n\nThis episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.\n\nMusic: \"Voxel Revolution\" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "file": "episodes/ep-007.mp3",
+    "bytes": 16922732,
+    "duration_seconds": 2115,
+    "pub_date": "2026-11-09",
+    "pub_date_rfc2822": "Mon, 09 Nov 2026 12:00:00 +0000",
+    "spoken_disclosure": true
   }
 ]

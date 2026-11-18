@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thai's Weekly Brief</title>
+    <link>https://thaishalev.github.io/podcast-feed/</link>
+    <atom:link href="https://thaishalev.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A weekly show on technology and geopolitics in the Israeli and French markets. Each episode is researched, written, voiced and published by an AI agent, and both hosts are synthetic voices.</description>
+    <itunes:summary>A weekly show on technology and geopolitics in the Israeli and French markets. Each episode is researched, written, voiced and published by an AI agent, and both hosts are synthetic voices.</itunes:summary>
+    <language>en</language>
+    <copyright>Thai Shalev</copyright>
+    <itunes:author>Thai Shalev</itunes:author>
+    <itunes:owner>
+      <itunes:name>Thai Shalev</itunes:name>
+      <itunes:email>shalevthai@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://thaishalev.github.io/podcast-feed/cover.jpg"/>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+  </channel>
+</rss>

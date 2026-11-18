@@ -46,5 +46,17 @@
     "pub_date": "2026-11-09",
     "pub_date_rfc2822": "Mon, 09 Nov 2026 12:00:00 +0000",
     "spoken_disclosure": true
+  },
+  {
+    "guid": "thais-weekly-brief-ep-8",
+    "episode_number": 8,
+    "title": "Anthropic Prices, the Fed Flips to Hike, and France's Bond Market Still Hasn't Calmed Down",
+    "notes": "Anthropic's roadshow is marketing shares at $70-78, targeting somewhere between $1.1 and $1.5 trillion depending who you ask, with pricing landing days after this episode drops. The Fed has flipped from 'holding into 2027' to a near-locked-in December hike as inflation accelerates -- and Fed Governor Cook says AI data-center spending is part of why. Israel's Sentra raised $150M leading a crowded month of AI-agent-security funding, and France's bond market is still stuck near crisis levels after a budget fight that turned into actual riots.\n\nThis episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.\n\nMusic: \"Voxel Revolution\" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "file": "episodes/ep-008.mp3",
+    "bytes": 16868972,
+    "duration_seconds": 2109,
+    "pub_date": "2026-11-16",
+    "pub_date_rfc2822": "Mon, 16 Nov 2026 12:00:00 +0000",
+    "spoken_disclosure": true
   }
 ]

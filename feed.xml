@@ -20,6 +20,27 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>AI Debt Hits Wall Street, the Rate-Hike Wave Cracks, and OpenAI Buys an Israeli Camera Startup</title>
+      <description>This week: SoftBank sells over $10B in bonds to help fund its OpenAI stake as AI financing spreads into public debt markets, the global rate-hike wave from last episode wobbles as Fed odds swing hard on one dovish comment even as the ECB warns the inflation fight could run into 2027, and OpenAI buys Israeli camera-tech startup GLASS Imaging for $300M+ as AI labs keep reaching into hardware.
+
+This episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.
+
+Music: "Voxel Revolution" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/</description>
+      <itunes:summary>This week: SoftBank sells over $10B in bonds to help fund its OpenAI stake as AI financing spreads into public debt markets, the global rate-hike wave from last episode wobbles as Fed odds swing hard on one dovish comment even as the ECB warns the inflation fight could run into 2027, and OpenAI buys Israeli camera-tech startup GLASS Imaging for $300M+ as AI labs keep reaching into hardware.
+
+This episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.
+
+Music: "Voxel Revolution" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/</itunes:summary>
+      <enclosure url="https://thaishalev.github.io/podcast-feed/episodes/ep-003.mp3" length="9967532" type="audio/mpeg"/>
+      <guid isPermaLink="false">thais-weekly-brief-ep-3</guid>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1246</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://thaishalev.github.io/podcast-feed/cover.jpg"/>
+    </item>
+    <item>
       <title>AI's Safety Reckoning, an Israeli Security Megaround, and France's Growth Gap</title>
       <description>This week: AI's own biggest names warn of existential risk and trigger a global tech selloff, Nvidia keeps showing up everywhere from Hugging Face to Anthropic's IPO, an Israeli startup raises $245M to keep AI agents in check, France's growth forecast gets cut to near zero even as Mistral booms, and we close out last week's Fed cliffhanger.
 

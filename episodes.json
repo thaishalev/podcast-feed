@@ -22,5 +22,17 @@
     "pub_date": "2026-09-17",
     "pub_date_rfc2822": "Thu, 17 Sep 2026 12:00:00 +0000",
     "spoken_disclosure": true
+  },
+  {
+    "guid": "thais-weekly-brief-ep-3",
+    "episode_number": 3,
+    "title": "AI Debt Hits Wall Street, the Rate-Hike Wave Cracks, and OpenAI Buys an Israeli Camera Startup",
+    "notes": "This week: SoftBank sells over $10B in bonds to help fund its OpenAI stake as AI financing spreads into public debt markets, the global rate-hike wave from last episode wobbles as Fed odds swing hard on one dovish comment even as the ECB warns the inflation fight could run into 2027, and OpenAI buys Israeli camera-tech startup GLASS Imaging for $300M+ as AI labs keep reaching into hardware.\n\nThis episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.\n\nMusic: \"Voxel Revolution\" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "file": "episodes/ep-003.mp3",
+    "bytes": 9967532,
+    "duration_seconds": 1246,
+    "pub_date": "2026-09-24",
+    "pub_date_rfc2822": "Thu, 24 Sep 2026 12:00:00 +0000",
+    "spoken_disclosure": true
   }
 ]

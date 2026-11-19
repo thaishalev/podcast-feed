@@ -82,5 +82,17 @@
     "pub_date": "2026-10-05",
     "pub_date_rfc2822": "Mon, 05 Oct 2026 12:00:00 +0000",
     "spoken_disclosure": true
+  },
+  {
+    "guid": "thais-weekly-brief-ep-6",
+    "episode_number": 6,
+    "title": "October in Review: Anthropic Files, the AI Trade Wobbles, and Europe's Central Bank Shake-Up",
+    "notes": "A month-in-review special after a few weeks off. Anthropic files publicly for a Nasdaq IPO targeting about $1.5 trillion under the ticker ANT; chip stocks suffer their worst run since 2006 before Alphabet and Microsoft earnings show AI demand is real; the Fed holds with two dissents for a hike while Warsh plans fewer meetings; the ECB holds, Lagarde announces an early exit, and French bond spreads hit their widest since 2011; Israel racks up big exits (Varonis, Classiq) while the Decart deal keeps slipping; and Mistral ships its trillion-parameter 'Le Chonk'.\n\nThis episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.\n\nMusic: \"Voxel Revolution\" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "file": "episodes/ep-006.mp3",
+    "bytes": 17851052,
+    "duration_seconds": 2231,
+    "pub_date": "2026-11-02",
+    "pub_date_rfc2822": "Mon, 02 Nov 2026 12:00:00 +0000",
+    "spoken_disclosure": true
   }
 ]

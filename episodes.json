@@ -70,5 +70,17 @@
     "pub_date": "2026-10-02",
     "pub_date_rfc2822": "Fri, 02 Oct 2026 12:00:00 +0000",
     "spoken_disclosure": true
+  },
+  {
+    "guid": "thais-weekly-brief-ep-5",
+    "episode_number": 5,
+    "title": "Anthropic's $2 Trillion Swing, the Fed's Whiplash, and AI Money Everywhere",
+    "notes": "This week: Anthropic's IPO math gets even bigger (Nasdaq, a possible $2T valuation, mid-November target), the Fed's rate-hike odds whiplash from 11% to 68.6% in a month, Israel's startups cross $13.2B for the year with Nebius scooping up 10-month-old Inferize, France logs its best fundraising month since 2023 on Mistral's halo, and Microsoft's trillion-dollar quarter lands right alongside a fresh Nvidia chip-smuggling case.\n\nThis episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.\n\nMusic: \"Voxel Revolution\" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "file": "episodes/ep-005.mp3",
+    "bytes": 17643884,
+    "duration_seconds": 2205,
+    "pub_date": "2026-10-05",
+    "pub_date_rfc2822": "Mon, 05 Oct 2026 12:00:00 +0000",
+    "spoken_disclosure": true
   }
 ]

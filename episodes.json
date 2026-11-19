@@ -58,5 +58,17 @@
     "pub_date": "2026-11-16",
     "pub_date_rfc2822": "Mon, 16 Nov 2026 12:00:00 +0000",
     "spoken_disclosure": true
+  },
+  {
+    "guid": "thais-weekly-brief-ep-4",
+    "episode_number": 4,
+    "title": "Anthropic's November IPO, the Fed's Great Pause, and Foreign Capital Doubling Down",
+    "notes": "This week: Anthropic heads for a Nasdaq debut as soon as November at a $965B+ valuation with annualized revenue topping $100B, the Fed pivots from active hiking to an expected prolonged hold into 2027, Bessemer Venture Partners raises $5.75B across two funds to double down on Israeli startups, and Mistral puts its record funding round to work with a EUR100M+ TotalEnergies partnership for AI-driven oil and gas exploration.\n\nThis episode was researched, written, voiced and published by an AI agent; both hosts are synthetic voices.\n\nMusic: \"Voxel Revolution\" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/",
+    "file": "episodes/ep-004.mp3",
+    "bytes": 15312236,
+    "duration_seconds": 1914,
+    "pub_date": "2026-10-02",
+    "pub_date_rfc2822": "Fri, 02 Oct 2026 12:00:00 +0000",
+    "spoken_disclosure": true
   }
 ]
